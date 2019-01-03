@@ -4,6 +4,10 @@
   display: none;
 }
 
+#wall #tag-2{
+  display: none;
+}
+
 .parent #tag-5, #tag-6{
   display: none;
 }
